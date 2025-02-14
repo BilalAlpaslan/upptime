@@ -22,18 +22,20 @@
     "url": "https://boycott-api.k8s.mahirkart.net",
     "icon": "https://icons.duckduckgo.com/ip3/boycott-api.k8s.mahirkart.net.ico",
     "slug": "boycott-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
-    "timeDay": 392,
-    "timeWeek": 444,
-    "timeMonth": 447,
+    "timeDay": 390,
+    "timeWeek": 437,
+    "timeMonth": 445,
     "timeYear": 429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-14": 0
+    }
   },
   {
     "name": "sekiz12-api",
