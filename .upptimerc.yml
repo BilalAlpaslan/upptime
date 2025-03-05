@@ -8,10 +8,14 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: mahirkart.net
     url: https://mahirkart.net
-  - name: boycott-api
-    url: https://boycott-api.k8s.mahirkart.net
-  - name: sekiz12-api
-    url: https://api-sekiz12.mahirkart.net
+  - name: şahmat akademi tr
+    url: https://sahmatakademi.com.tr
+  - name: şahmat akademi
+    url: https://sahmatakademi.com
+  # - name: boycott-api
+  #   url: https://boycott-api.k8s.mahirkart.net
+  # - name: sekiz12-api
+  #   url: https://api-sekiz12.mahirkart.net
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
