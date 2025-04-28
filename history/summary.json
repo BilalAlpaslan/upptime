@@ -4,19 +4,19 @@
     "url": "https://mahirkart.net",
     "icon": "https://icons.duckduckgo.com/ip3/mahirkart.net.ico",
     "slug": "mahirkart-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 152,
-    "timeWeek": 184,
+    "timeDay": 181,
+    "timeWeek": 187,
     "timeMonth": 204,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 15
     }
   },
   {
