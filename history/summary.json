@@ -22,19 +22,19 @@
     "url": "https://sahmatakademi.com.tr",
     "icon": "https://icons.duckduckgo.com/ip3/sahmatakademi.com.tr.ico",
     "slug": "sahmat-akademi-tr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 482,
-    "timeDay": 298,
-    "timeWeek": 904,
+    "timeDay": 428,
+    "timeWeek": 870,
     "timeMonth": 540,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2025-08-07": 0
+      "2025-08-07": 10
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://sahmatakademi.com",
     "icon": "https://icons.duckduckgo.com/ip3/sahmatakademi.com.ico",
     "slug": "sahmat-akademi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 509,
-    "timeWeek": 378,
-    "timeMonth": 328,
-    "timeYear": 282,
+    "time": 283,
+    "timeDay": 452,
+    "timeWeek": 380,
+    "timeMonth": 330,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-08-07": 0
+      "2025-08-07": 10
     }
   }
 ]
