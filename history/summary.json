@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 183,
-    "timeWeek": 194,
-    "timeMonth": 189,
+    "timeDay": 125,
+    "timeWeek": 193,
+    "timeMonth": 187,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "sahmat-akademi-tr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 446,
-    "timeWeek": 447,
-    "timeMonth": 531,
-    "timeYear": 481,
-    "dailyMinutesDown": {
-      "2025-08-10": 7
-    }
+    "time": 480,
+    "timeDay": 325,
+    "timeWeek": 451,
+    "timeMonth": 533,
+    "timeYear": 480,
+    "dailyMinutesDown": {}
   },
   {
     "name": "şahmat akademi",
@@ -44,17 +42,15 @@
     "slug": "sahmat-akademi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 331,
-    "timeWeek": 355,
-    "timeMonth": 329,
+    "timeDay": 312,
+    "timeWeek": 344,
+    "timeMonth": 326,
     "timeYear": 285,
-    "dailyMinutesDown": {
-      "2025-08-10": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
