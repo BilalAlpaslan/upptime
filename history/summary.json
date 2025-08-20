@@ -22,18 +22,20 @@
     "url": "https://sahmatakademi.com.tr",
     "icon": "https://icons.duckduckgo.com/ip3/sahmatakademi.com.tr.ico",
     "slug": "sahmat-akademi-tr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
+    "time": 481,
     "timeDay": 632,
     "timeWeek": 515,
-    "timeMonth": 539,
-    "timeYear": 480,
-    "dailyMinutesDown": {}
+    "timeMonth": 546,
+    "timeYear": 481,
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "şahmat akademi",
@@ -42,15 +44,17 @@
     "slug": "sahmat-akademi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
     "timeDay": 325,
     "timeWeek": 395,
-    "timeMonth": 347,
+    "timeMonth": 348,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   }
 ]
