@@ -4,20 +4,18 @@
     "url": "https://mahirkart.net",
     "icon": "https://icons.duckduckgo.com/ip3/mahirkart.net.ico",
     "slug": "mahirkart-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 257,
-    "timeWeek": 248,
-    "timeMonth": 201,
-    "timeYear": 197,
-    "dailyMinutesDown": {
-      "2025-11-18": 7
-    }
+    "time": 193,
+    "timeDay": 206,
+    "timeWeek": 228,
+    "timeMonth": 197,
+    "timeYear": 196,
+    "dailyMinutesDown": {}
   },
   {
     "name": "şahmat akademi tr",
