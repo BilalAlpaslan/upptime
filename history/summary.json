@@ -4,7 +4,7 @@
     "url": "https://mahirkart.net",
     "icon": "https://icons.duckduckgo.com/ip3/mahirkart.net.ico",
     "slug": "mahirkart-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 191,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2026-02-26": 0,
       "2026-02-10": 26,
       "2026-02-09": 21,
       "2025-11-18": 147
